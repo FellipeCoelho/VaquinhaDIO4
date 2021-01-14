@@ -1,0 +1,14 @@
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb

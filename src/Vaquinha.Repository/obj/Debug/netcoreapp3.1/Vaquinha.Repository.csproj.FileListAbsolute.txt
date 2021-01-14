@@ -1,0 +1,15 @@
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.deps.json
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csprojAssemblyReference.cache
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+D:\Cursos\DIO\VaquinhaOnline\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache
